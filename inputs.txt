@@ -1,0 +1,5 @@
+# Se ingresan los valores de los parámetros
+# const_k = float(input('Ingresa constante de propagación K: '))
+# const_a = float(input('Ingresa constante de atenuación a: '))
+# dist_ds = float(input('Ingresa distancia DS: '))
+# charge_w = float(input('Ingresa carga W: '))
